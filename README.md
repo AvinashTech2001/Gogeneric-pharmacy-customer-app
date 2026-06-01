@@ -124,32 +124,3 @@ The platform supports a complete end-to-end ordering flow, from medicine discove
 * Performance Optimization
 * Bug Fixing & Maintenance
 
-## Screenshots
-
-### Home Screen
-
-Add Screenshot Here
-
-### Medicine Listing
-
-Add Screenshot Here
-
-### Product Details
-
-Add Screenshot Here
-
-### Cart Management
-
-Add Screenshot Here
-
-### Checkout Process
-
-Add Screenshot Here
-
-### Order Tracking
-
-Add Screenshot Here
-
-### Profile Management
-
-Add Screenshot Here
